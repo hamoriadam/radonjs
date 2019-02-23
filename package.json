@@ -1,0 +1,26 @@
+{
+  "name": "radonjs",
+  "version": "0.0.0",
+  "description": "Template-based JavaScript (TypeScript) front-end library for building web pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamoriadam/radonjs.git"
+  },
+  "keywords": [
+    "radon",
+    "web",
+    "frontend",
+    "js",
+    "typescript"
+  ],
+  "author": "Hámori Ádám",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamoriadam/radonjs/issues"
+  },
+  "homepage": "https://github.com/hamoriadam/radonjs#readme"
+}
